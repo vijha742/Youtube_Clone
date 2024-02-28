@@ -1,0 +1,33 @@
+.content{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	justify-content: space-between;
+	padding: 20px;
+}
+.Img{
+	min-width: 262px;
+	display: block;
+	min-height: 147px;
+}
+.Img:hover{
+	cursor: pointer;
+}
+.Img{
+    width: 320px;
+    height: 200px;
+}
+
+.channel_img{
+    width: 40px; 
+    height: 40px; 
+    border-radius: 100px;
+    display: block;
+    overflow: hidden;
+}
+.Vid_Title{
+	display: block;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
