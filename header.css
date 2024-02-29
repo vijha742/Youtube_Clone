@@ -21,6 +21,7 @@ header{
 	display: inline-block;
 	background-color: white;
 	align-items: center;
+	justify-content: center;
 }
 .right-section{
 	display: flex;
